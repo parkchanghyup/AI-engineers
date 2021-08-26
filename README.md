@@ -1,5 +1,4 @@
 # 🕵️‍♂️AI-engineers
----
 - 데이터 사이언티스트 면접 질문 및 답변
 - [질문 리스트](https://github.com/zzsza/Datascience-Interview-Questions)  ([zzsza](https://github.com/zzsza)님 git hub참고)
 

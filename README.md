@@ -1,7 +1,6 @@
 # 🕵️‍♂️AI-engineers
 - 데이터 사이언티스트 면접 질문 및 답변
-- [질문 리스트](https://github.com/zzsza/Datascience-Interview-Questions)  ([zzsza](https://github.com/zzsza)님 git hub참고)
-
+- 질문 리스트 : [zzsza](https://github.com/zzsza)님 git hub참고,[WeareSoft](https://github.com/WeareSoft/tech-interview)님 참고
 
 ## 통계 및 수학
 
